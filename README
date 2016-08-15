@@ -1,0 +1,38 @@
+PANEL (Parcellation and Netmat Evaluation Library)
+
+PANEL is split into 5 modules.
+
+DataLoader - provides additonal functionality for loading in CIFTI/NIFTI file, 
+most of this is done through the nibabel.load() function but helper functions are
+included in this module.
+
+
+Feature Analysis - Provides methods for analysis the importance/significance of edges in netmats.
+Two methods are supported based on GLM and Random Forests. 
+Look at Edge_Evaluation.ipynb or Edge_Correlation.ipynb for examples.
+
+Predictors - Provides a set of estimator which are automatically trained to predict
+various HCP behavioural measures. Refer to Netmat_Evaluation.ipynb or Sparsity_Evaluation.ipynb
+for examples. For most cases ElasticNetTuner will provide the best results
+
+Graph Metrics - provides a series of different graph metric used to analyze netmats
+
+FSLNets - is a python implementation of FMRIB's FSLNets and is used to generate 
+netmats.
+
+
+Refer to the notebooks for examples on how to use the various functions and modules.
+
+
+
+
+
+Dependencies:
+Scikit
+Pandas
+Numpy
+Scipy
+Matplotlib
+Scikit Neural Networks (For Neural Network Predictor Only)
+Nibabel CIFTI Branch (still under development https://github.com/satra/nibabel/tree/enh/cifti2)
+Jupyter Notebooks is needed to run any *.ipynb files which are not necessary for the core functionality.

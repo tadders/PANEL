@@ -1,0 +1,2 @@
+Most loading of data should be done using the nibabel CIFTI branch which can be here (still under development https://github.com/satra/nibabel/tree/enh/cifti2)
+

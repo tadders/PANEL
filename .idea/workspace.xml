@@ -1,0 +1,1244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b4e1195f-b97b-4833-8b57-ecdf61448621" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/CIFTIMatlabReaderWriter_old/CIFTIMatlabReaderWriter_old/@gifti/Contents.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/CIFTIMatlabReaderWriter_old/CIFTIMatlabReaderWriter_old/@gifti/display.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/CIFTIMatlabReaderWriter_old/CIFTIMatlabReaderWriter_old/@gifti/export.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/CIFTIMatlabReaderWriter_old/CIFTIMatlabReaderWriter_old/@gifti/fieldnames.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/CIFTIMatlabReaderWriter_old/CIFTIMatlabReaderWriter_old/@gifti/gifti.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/CIFTIMatlabReaderWriter_old/CIFTIMatlabReaderWriter_old/@gifti/isfield.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/CIFTIMatlabReaderWriter_old/CIFTIMatlabReaderWriter_old/@gifti/plot.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/CIFTIMatlabReaderWriter_old/CIFTIMatlabReaderWriter_old/@gifti/private/base64decode.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/CIFTIMatlabReaderWriter_old/CIFTIMatlabReaderWriter_old/@gifti/private/base64encode.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/CIFTIMatlabReaderWriter_old/CIFTIMatlabReaderWriter_old/@gifti/private/dunzip.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/CIFTIMatlabReaderWriter_old/CIFTIMatlabReaderWriter_old/@gifti/private/dzip.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/CIFTIMatlabReaderWriter_old/CIFTIMatlabReaderWriter_old/@gifti/private/getdict.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/CIFTIMatlabReaderWriter_old/CIFTIMatlabReaderWriter_old/@gifti/private/html/read_gifti_file.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/CIFTIMatlabReaderWriter_old/CIFTIMatlabReaderWriter_old/@gifti/private/isintent.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/CIFTIMatlabReaderWriter_old/CIFTIMatlabReaderWriter_old/@gifti/private/read_gifti_file.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/CIFTIMatlabReaderWriter_old/CIFTIMatlabReaderWriter_old/@gifti/private/read_gifti_file_standalone.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/CIFTIMatlabReaderWriter_old/CIFTIMatlabReaderWriter_old/@gifti/private/xml_parser.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/CIFTIMatlabReaderWriter_old/CIFTIMatlabReaderWriter_old/@gifti/save.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/CIFTIMatlabReaderWriter_old/CIFTIMatlabReaderWriter_old/@gifti/struct.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/CIFTIMatlabReaderWriter_old/CIFTIMatlabReaderWriter_old/@gifti/subsasgn.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/CIFTIMatlabReaderWriter_old/CIFTIMatlabReaderWriter_old/@gifti/subsref.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/CIFTIMatlabReaderWriter_old/CIFTIMatlabReaderWriter_old/@xmltree/Contents.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/CIFTIMatlabReaderWriter_old/CIFTIMatlabReaderWriter_old/@xmltree/add.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/CIFTIMatlabReaderWriter_old/CIFTIMatlabReaderWriter_old/@xmltree/attributes.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/CIFTIMatlabReaderWriter_old/CIFTIMatlabReaderWriter_old/@xmltree/branch.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/CIFTIMatlabReaderWriter_old/CIFTIMatlabReaderWriter_old/@xmltree/char.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/CIFTIMatlabReaderWriter_old/CIFTIMatlabReaderWriter_old/@xmltree/children.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/CIFTIMatlabReaderWriter_old/CIFTIMatlabReaderWriter_old/@xmltree/convert.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/CIFTIMatlabReaderWriter_old/CIFTIMatlabReaderWriter_old/@xmltree/copy.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/CIFTIMatlabReaderWriter_old/CIFTIMatlabReaderWriter_old/@xmltree/delete.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/CIFTIMatlabReaderWriter_old/CIFTIMatlabReaderWriter_old/@xmltree/display.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/CIFTIMatlabReaderWriter_old/CIFTIMatlabReaderWriter_old/@xmltree/editor.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/CIFTIMatlabReaderWriter_old/CIFTIMatlabReaderWriter_old/@xmltree/find.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/CIFTIMatlabReaderWriter_old/CIFTIMatlabReaderWriter_old/@xmltree/flush.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/CIFTIMatlabReaderWriter_old/CIFTIMatlabReaderWriter_old/@xmltree/get.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/CIFTIMatlabReaderWriter_old/CIFTIMatlabReaderWriter_old/@xmltree/getfilename.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/CIFTIMatlabReaderWriter_old/CIFTIMatlabReaderWriter_old/@xmltree/isfield.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/CIFTIMatlabReaderWriter_old/CIFTIMatlabReaderWriter_old/@xmltree/length.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/CIFTIMatlabReaderWriter_old/CIFTIMatlabReaderWriter_old/@xmltree/move.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/CIFTIMatlabReaderWriter_old/CIFTIMatlabReaderWriter_old/@xmltree/parent.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/CIFTIMatlabReaderWriter_old/CIFTIMatlabReaderWriter_old/@xmltree/private/Makefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/CIFTIMatlabReaderWriter_old/CIFTIMatlabReaderWriter_old/@xmltree/private/xml_findstr.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/CIFTIMatlabReaderWriter_old/CIFTIMatlabReaderWriter_old/@xmltree/private/xml_findstr.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/CIFTIMatlabReaderWriter_old/CIFTIMatlabReaderWriter_old/@xmltree/private/xml_findstr.mexa64" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/CIFTIMatlabReaderWriter_old/CIFTIMatlabReaderWriter_old/@xmltree/private/xml_findstr.mexglx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/CIFTIMatlabReaderWriter_old/CIFTIMatlabReaderWriter_old/@xmltree/private/xml_findstr.mexmaci" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/CIFTIMatlabReaderWriter_old/CIFTIMatlabReaderWriter_old/@xmltree/private/xml_findstr.mexmaci64" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/CIFTIMatlabReaderWriter_old/CIFTIMatlabReaderWriter_old/@xmltree/private/xml_findstr.mexw32" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/CIFTIMatlabReaderWriter_old/CIFTIMatlabReaderWriter_old/@xmltree/private/xml_findstr.mexw64" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/CIFTIMatlabReaderWriter_old/CIFTIMatlabReaderWriter_old/@xmltree/private/xml_parser.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/CIFTIMatlabReaderWriter_old/CIFTIMatlabReaderWriter_old/@xmltree/root.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/CIFTIMatlabReaderWriter_old/CIFTIMatlabReaderWriter_old/@xmltree/save.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/CIFTIMatlabReaderWriter_old/CIFTIMatlabReaderWriter_old/@xmltree/set.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/CIFTIMatlabReaderWriter_old/CIFTIMatlabReaderWriter_old/@xmltree/setfilename.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/CIFTIMatlabReaderWriter_old/CIFTIMatlabReaderWriter_old/@xmltree/view.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/CIFTIMatlabReaderWriter_old/CIFTIMatlabReaderWriter_old/@xmltree/xmltree.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/CIFTIMatlabReaderWriter_old/CIFTIMatlabReaderWriter_old/README" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/CIFTIMatlabReaderWriter_old/CIFTIMatlabReaderWriter_old/cifti2nifti.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/CIFTIMatlabReaderWriter_old/CIFTIMatlabReaderWriter_old/cifti_extract_data.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/CIFTIMatlabReaderWriter_old/CIFTIMatlabReaderWriter_old/ciftiopen.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/CIFTIMatlabReaderWriter_old/CIFTIMatlabReaderWriter_old/ciftisave.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/CIFTIMatlabReaderWriter_old/CIFTIMatlabReaderWriter_old/ciftismooth.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/CIFTIMatlabReaderWriter_old/CIFTIMatlabReaderWriter_old/create_border_gii.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/CIFTIMatlabReaderWriter_old/CIFTIMatlabReaderWriter_old/create_dconn.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/CIFTIMatlabReaderWriter_old/CIFTIMatlabReaderWriter_old/create_dtseries.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/CIFTIMatlabReaderWriter_old/CIFTIMatlabReaderWriter_old/create_func_gii.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/CIFTIMatlabReaderWriter_old/CIFTIMatlabReaderWriter_old/create_surf_gii.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/CIFTIMatlabReaderWriter_old/CIFTIMatlabReaderWriter_old/create_wbfile.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/CIFTIMatlabReaderWriter_old/CIFTIMatlabReaderWriter_old/giftismooth.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/CIFTIMatlabReaderWriter_old/CIFTIMatlabReaderWriter_old/load_32surf.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/CIFTIMatlabReaderWriter_old/CIFTIMatlabReaderWriter_old/load_BM.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/CIFTIMatlabReaderWriter_old/CIFTIMatlabReaderWriter_old/load_cifti_structure.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/CIFTIMatlabReaderWriter_old/CIFTIMatlabReaderWriter_old/nifti_from_dtseries.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/CIFTIMatlabReaderWriter_old/CIFTIMatlabReaderWriter_old/open_wbfile.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/CIFTIMatlabReaderWriter_old/CIFTIMatlabReaderWriter_old/wb_command" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/CIFTIMatlabReaderWriter_old/CIFTIMatlabReaderWriter_old/workbench" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/CIFTIMatlabReaderWriter_old/__MACOSX/CIFTIMatlabReaderWriter_old/._open_wbfile.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/ICA_scripts/DO3_fastica.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/ICA_scripts/DO_3_group_2_ICAa" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/ICA_scripts/DO_neonatal_ICA_MIGP.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/ICA_scripts/Diffusion_ICA_MIGP.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/ICA_scripts/Diffusion_ICA_MIGP_conn.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/ICA_scripts/Diffusion_ICA_MIGP_full.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/ICA_scripts/Diffusion_ICA_MIGP_full_nomean.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/ICA_scripts/Diffusion_ICA_MIGP_no_medial.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/ICA_scripts/Diffusion_ICA_MIGP_nodemean.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/ICA_scripts/Diffusion_ICA_MIGP_nodemean_single.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/ICA_scripts/Diffusion_ICA_MIGP_single_hemi.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/ICA_scripts/Diffusion_ICA_MIGP_single_hemi_no_medial.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/ICA_scripts/FastICA_25/CVS/Entries" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/ICA_scripts/FastICA_25/CVS/Repository" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/ICA_scripts/FastICA_25/CVS/Root" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/ICA_scripts/FastICA_25/Contents.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/ICA_scripts/FastICA_25/demosig.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/ICA_scripts/FastICA_25/dispsig.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/ICA_scripts/FastICA_25/fastica.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/ICA_scripts/FastICA_25/fasticag.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/ICA_scripts/FastICA_25/fpica.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/ICA_scripts/FastICA_25/gui_adv.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/ICA_scripts/FastICA_25/gui_advc.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/ICA_scripts/FastICA_25/gui_cb.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/ICA_scripts/FastICA_25/gui_cg.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/ICA_scripts/FastICA_25/gui_help.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/ICA_scripts/FastICA_25/gui_l.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/ICA_scripts/FastICA_25/gui_lc.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/ICA_scripts/FastICA_25/gui_s.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/ICA_scripts/FastICA_25/gui_sc.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/ICA_scripts/FastICA_25/icaplot.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/ICA_scripts/FastICA_25/pcamat.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/ICA_scripts/FastICA_25/remmean.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/ICA_scripts/FastICA_25/whitenv.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/ICA_scripts/ICAb.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/ICA_scripts/JOINT_var_MIGP_single_hemi_no_medial.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/ICA_scripts/Joint_MIGP_single_hemi_no_medial.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/ICA_scripts/MapMerging/map_correlation.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/ICA_scripts/MapMerging/maps_SAD.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/ICA_scripts/MapMerging/merge_maps.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/ICA_scripts/MapMerging/test_merge_maps.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/ICA_scripts/Smoothing/CCA.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/ICA_scripts/Smoothing/ICA_proximity_smoothing.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/ICA_scripts/Smoothing/ICA_smoothing.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/ICA_scripts/Smoothing/get_k_neighbours.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/ICA_scripts/Smoothing/mrf_com_smoothing.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/ICA_scripts/Smoothing/mrf_smoothing.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/ICA_scripts/Smoothing/test_mrf_com_smoothing.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/ICA_scripts/Smoothing/test_mrf_smoothing.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/ICA_scripts/Smoothing/test_neighbours.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/ICA_scripts/combine_hemispheres.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/ICA_scripts/correlation_ICA_MIGP.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/ICA_scripts/correlation_ICA_MIGP_square.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/ICA_scripts/correlation_ICA_seperate_hemi.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/ICA_scripts/correlation_ICA_square.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/ICA_scripts/diff_fastica.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/ICA_scripts/diffusion_MIGP.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/ICA_scripts/fake_nifti_to_cifti.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/ICA_scripts/ica_to_dscalar.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/ICA_scripts/kings_MIGP.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/ICA_scripts/kings_MIGP_nodemean.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/ICA_scripts/mat_to_avw.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/ICA_scripts/mat_to_cifti.m.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/ICA_scripts/melodic_structural_ICAb.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/ICA_scripts/merge_maps.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/ICA_scripts/second_MIGP.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/ICA_scripts/split_ica_components.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/ICA_scripts/square_migp.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/ICA_scripts/square_migp_no_medial.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/ICA_scripts/square_no_migp_ICA.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/ICA_scripts/structural_ICAb.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/ICA_scripts/test_avw.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/ICA_scripts/test_merge_maps.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/ICA_scripts/utils.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/ICA_scripts/utils/add_medial_wall.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/ICA_scripts/utils/cifti_separate.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/ICA_scripts/utils/demean.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/ICA_scripts/utils/discrete_parcellation_to_maps.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/ICA_scripts/utils/interleave_hemisphere_parcellations.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/ICA_scripts/utils/mat_to_cifti.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/ICA_scripts/utils/open_data.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/ICA_scripts/utils/remove_medial_wall.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/ICA_scripts/utils/save_sparse_as_dot.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/ICA_scripts/utils/split_hemispheres.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/ICA_scripts/utils/useful_vars.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/RandomParcellations/random_hemi_parcel_generation.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/RandomParcellations/random_netmats.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/RandomParcellations/random_parcel_generation.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/Salim/fetch_group_parcellation.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/Salim/transform_group_parcellation.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/estimate_curvature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/estimate_metric_distortion" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/estimate_strains" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/ico-4.surf.gii" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/ico-5.surf.gii" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/msm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/msmapplywarp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/msmresample" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/msmresamplemetric" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/netmats/FSLNets/README" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/netmats/FSLNets/netjs/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/netmats/FSLNets/netjs/js/main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/netmats/FSLNets/netjs/js/main.jsOLD" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/netmats/FSLNets/netjs/js/netctrl.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/netmats/FSLNets/netjs/js/netctrl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/netmats/FSLNets/netjs/js/netdata.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/netmats/FSLNets/netjs/js/netjs.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/netmats/FSLNets/netjs/js/netvis.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/netmats/FSLNets/netjs/js/netvis_dynamics.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/netmats/FSLNets/netjs/js/test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/netmats/FSLNets/nets_boxplots.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/netmats/FSLNets/nets_class_vectomat.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/netmats/FSLNets/nets_demean.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/netmats/FSLNets/nets_edgepics.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/netmats/FSLNets/nets_examples.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/netmats/FSLNets/nets_glm.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/netmats/FSLNets/nets_groupmean.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/netmats/FSLNets/nets_hierarchy.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/netmats/FSLNets/nets_lda.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/netmats/FSLNets/nets_load.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/netmats/FSLNets/nets_netmats.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/netmats/FSLNets/nets_netweb.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/netmats/FSLNets/nets_nodepartial.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/netmats/FSLNets/nets_nodepics.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/netmats/FSLNets/nets_normalise.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/netmats/FSLNets/nets_outliers.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/netmats/FSLNets/nets_spectra.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/netmats/FSLNets/nets_stats.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/netmats/FSLNets/nets_svds.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/netmats/FSLNets/nets_tangentv.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/netmats/FSLNets/nets_tsclean.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/netmats/FSLNets/structural_nets.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/netmats/L1precision/L1precisionBCD.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/netmats/L1precision/LassoShooting.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/netmats/L1precision/drawGraph.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/netmats/L1precision/example_L1precision.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/netmats/L1precision/mysetdiff.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/netmats/L1precision/process_options.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/netmats/MatlabIncluded/#concat_and_demean.m#" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/netmats/MatlabIncluded/#mapcopebk2vol.m#" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/netmats/MatlabIncluded/#regroupcopes.m#" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/netmats/MatlabIncluded/ciftiopen2.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/netmats/MatlabIncluded/ciftisave.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/netmats/MatlabIncluded/comparetaskresults.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/netmats/MatlabIncluded/concat_and_demean.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/netmats/MatlabIncluded/concat_and_demean_all.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/netmats/MatlabIncluded/convert_mat_to_cifti.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/netmats/MatlabIncluded/createtransformedgroupcopes.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/netmats/MatlabIncluded/demean.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/netmats/MatlabIncluded/dr_all_t.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/netmats/MatlabIncluded/dualregression.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/netmats/MatlabIncluded/dualregression_all.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/netmats/MatlabIncluded/dualregression_all_fmri.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/netmats/MatlabIncluded/dualregression_all_tmp.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/netmats/MatlabIncluded/dualregression_all_tmp_struct.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/netmats/MatlabIncluded/eigenregression.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/netmats/MatlabIncluded/functonifti.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/netmats/MatlabIncluded/grouptasks.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/netmats/MatlabIncluded/grouptasksall.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/netmats/MatlabIncluded/mapSurfaces.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/netmats/MatlabIncluded/mapcopebk2vol.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/netmats/MatlabIncluded/niftitofunc.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/netmats/MatlabIncluded/normalise.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/netmats/MatlabIncluded/regroupcopes.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/netmats/MatlabIncluded/reshapenetmats" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/netmats/MatlabIncluded/reshapenetmats.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/netmats/MatlabIncluded/reshapenetmatsRSN.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/netmats/MatlabIncluded/salim_dr.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/netmats/MatlabIncluded/ssConcat.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/netmats/MatlabIncluded/ss_svds.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/netmats/MatlabIncluded/structural_dual_regression.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/netmats/MatlabIncluded/taskstats.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/netmats/MatlabIncluded/threelayer_nets.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/netmats/StructNets/alt_struct_netmats.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/netmats/StructNets/asn_example.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/netmats/StructNets/sn2.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/netmats/StructNets/sn_example.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/netmats/StructNets/structural_netmats.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/netmats/StructNets/test_structural_netmats.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/netmats/netmat_func.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/netmats/pwling/mentappr.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/netmats/pwling/pwling.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/netmats/random_nets.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/netmats/structural_nets.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/surfconvert" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stable_binaries/transform" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Edge_Evaluation.ipynb" afterPath="$PROJECT_DIR$/Edge_Evaluation.ipynb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Feature_Analysis/ViewEdges3D.py" afterPath="$PROJECT_DIR$/Feature_Analysis/ViewEdges3D.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Netmat_Evaluation.ipynb" afterPath="$PROJECT_DIR$/Netmat_Evaluation.ipynb" />
+    </list>
+    <ignored path="BrainConnectivity.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="BrainConnectivity" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="ViewEdges3D.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Feature_Analysis/ViewEdges3D.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="545">
+              <caret line="37" column="21" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StructuralNetmats.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FSLNets/StructuralNetmats.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestStructuralNetmats.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FSLNets/TestStructuralNetmats.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestEdgeUtils.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Feature_Analysis/TestEdgeUtils.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="44" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="utils.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DataLoader/utils.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1269">
+              <caret line="48" column="0" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="nets_netmats.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FSLNets/nets_netmats.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2318">
+              <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TimeSeriesData.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FSLNets/TimeSeriesData.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2214">
+              <caret line="84" column="22" selection-start-line="84" selection-start-column="22" selection-end-line="84" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EdgeUtils.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Feature_Analysis/EdgeUtils.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1593">
+              <caret line="59" column="0" selection-start-line="59" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DiceSimilarityCoefficient.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GraphMetrics/DiceSimilarityCoefficient.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="351">
+              <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SmallWorld.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GraphMetrics/SmallWorld.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="19" column="8" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$USER_HOME$/myenv/local/lib/python2.7/site-packages/sklearn/ensemble/sknn_bagging.py" />
+        <option value="$USER_HOME$/myenv/local/lib/python2.7/site-packages/sklearn/ensemble/bagging.py" />
+        <option value="$PROJECT_DIR$/../BrainConnectivity/MajorityEnsemble.py" />
+        <option value="$PROJECT_DIR$/../BrainConnectivity/Notes" />
+        <option value="$PROJECT_DIR$/../BrainConnectivity/ModelDevelopment" />
+        <option value="$PROJECT_DIR$/../BrainConnectivity/Tuner.py" />
+        <option value="$PROJECT_DIR$/../BrainConnectivity/NNTuner.py" />
+        <option value="$PROJECT_DIR$/../BrainConnectivity/Predictor.py" />
+        <option value="$PROJECT_DIR$/../BrainConnectivity/PatientDataLoader.py" />
+        <option value="$PROJECT_DIR$/../BrainConnectivity/downsample_script.py" />
+        <option value="$PROJECT_DIR$/../BrainConnectivity/Feature_Analysis/PermutationEdgeSignificance.py" />
+        <option value="$PROJECT_DIR$/../BrainConnectivity/Feature_Analysis/GLMFeatureExtraction.py" />
+        <option value="$PROJECT_DIR$/../BrainConnectivity/DataLoader/MetadataHelper.py" />
+        <option value="$PROJECT_DIR$/../BrainConnectivity/Predictors/TestElasticNetTuner.py" />
+        <option value="$PROJECT_DIR$/../BrainConnectivity/GraphMetrics/GridElasticNetTuner.py" />
+        <option value="$PROJECT_DIR$/../BrainConnectivity/Predictors/Predictor.py" />
+        <option value="$PROJECT_DIR$/../BrainConnectivity/Predictors/ElasticNetTuner.py" />
+        <option value="$PROJECT_DIR$/../BrainConnectivity/Predictors/NNTuner.py" />
+        <option value="$PROJECT_DIR$/../BrainConnectivity/FSLNets/ParcelSimilarity.py" />
+        <option value="$PROJECT_DIR$/../BrainConnectivity/Predictors/RandomForestTuner.py" />
+        <option value="$PROJECT_DIR$/../BrainConnectivity/Feature_Analysis/RFFeatureExtraction.py" />
+        <option value="$PROJECT_DIR$/../BrainConnectivity/FSLNets/TestEdgeUtils.py" />
+        <option value="$PROJECT_DIR$/../BrainConnectivity/Feature_Analysis/EdgeUtils.py" />
+        <option value="$PROJECT_DIR$/../BrainConnectivity/Feature_Analysis/TestEdgeUtils.py" />
+        <option value="$PROJECT_DIR$/../BrainConnectivity/Feature_Analysis/ViewEdges3D.py" />
+        <option value="$PROJECT_DIR$/../BrainConnectivity/DataLoader/TestUtils.py" />
+        <option value="$PROJECT_DIR$/../BrainConnectivity/FSLNets/nets_glm.py" />
+        <option value="$PROJECT_DIR$/../BrainConnectivity/FSLNets/nets_example.py" />
+        <option value="$PROJECT_DIR$/../BrainConnectivity/FSLNets/TimeSeriesData.py" />
+        <option value="$PROJECT_DIR$/../BrainConnectivity/TestGraphMetrics.py" />
+        <option value="$PROJECT_DIR$/../BrainConnectivity/GraphMetrics/TestGraphMetrics.py" />
+        <option value="$PROJECT_DIR$/../BrainConnectivity/GraphMetrics/ClusteringCoefficent.py" />
+        <option value="$PROJECT_DIR$/../BrainConnectivity/GraphMetrics/PathLength.py" />
+        <option value="$PROJECT_DIR$/../BrainConnectivity/GraphMetrics/SmallWorld.py" />
+        <option value="$PROJECT_DIR$/../BrainConnectivity/GraphMetrics/ParcelSimilarity.py" />
+        <option value="$PROJECT_DIR$/../BrainConnectivity/GraphMetrics/DiceSimilarityCoefficient.py" />
+        <option value="$PROJECT_DIR$/../BrainConnectivity/GraphMetrics/GraphMetircTests.py" />
+        <option value="$PROJECT_DIR$/../BrainConnectivity/DataLoader/utils.py" />
+        <option value="$PROJECT_DIR$/../BrainConnectivity/DataLoader/GIFTIHelper.py" />
+        <option value="$PROJECT_DIR$/../BrainConnectivity/FSLNets/nets_3Dedge.py" />
+        <option value="$PROJECT_DIR$/../BrainConnectivity/StructuralNetmats.py" />
+        <option value="$PROJECT_DIR$/../BrainConnectivity/FSLNets/TestStructuralNets.py" />
+        <option value="$PROJECT_DIR$/../BrainConnectivity/FSLNets/gen_struct_netmat.py" />
+        <option value="$PROJECT_DIR$/../BrainConnectivity/FSLNets/StructuralNetmats.py" />
+        <option value="$PROJECT_DIR$/../BrainConnectivity/FSLNets/TestStructuralNetmats.py" />
+        <option value="$PROJECT_DIR$/Feature_Analysis/ViewEdges3D.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="65" />
+    <option name="y" value="24" />
+    <option name="width" value="1855" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BrainConnectivity" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BrainConnectivity" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PANEL" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BrainConnectivity" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PANEL" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Feature_Analysis" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BrainConnectivity" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PANEL" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FSLNets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BrainConnectivity" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PANEL" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DataLoader" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
+    <property name="settings.editor.splitter.proportion" value="0.2026578" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$USER_HOME$/myenv/local/lib/python2.7/site-packages/sklearn/ensemble" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../BrainConnectivity/FSLNets" />
+      <recent name="$PROJECT_DIR$/../BrainConnectivity/GraphMetrics" />
+      <recent name="$PROJECT_DIR$/../BrainConnectivity/Feature_Analysis" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.ViewEdges3D">
+    <configuration default="false" name="nets_3Dedge" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../BrainConnectivity/FSLNets" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="BrainConnectivity" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../BrainConnectivity/FSLNets/nets_3Dedge.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unittests in TestStructuralNetmats" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../BrainConnectivity/FSLNets" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="BrainConnectivity" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../BrainConnectivity/FSLNets/TestStructuralNetmats.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unittest TestStructuralNetmats.test_sum_netmat" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../BrainConnectivity/FSLNets" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="BrainConnectivity" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../BrainConnectivity/FSLNets/TestStructuralNetmats.py" />
+      <option name="CLASS_NAME" value="TestStructuralNetmats" />
+      <option name="METHOD_NAME" value="test_sum_netmat" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_METHOD" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unittest TestStructuralNetmats.test_mean_netmat" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../BrainConnectivity/FSLNets" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="BrainConnectivity" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../BrainConnectivity/FSLNets/TestStructuralNetmats.py" />
+      <option name="CLASS_NAME" value="TestStructuralNetmats" />
+      <option name="METHOD_NAME" value="test_mean_netmat" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_METHOD" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="ViewEdges3D" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Feature_Analysis" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="BrainConnectivity" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Feature_Analysis/ViewEdges3D.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="BrainConnectivity" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="BrainConnectivity" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="BrainConnectivity" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="BrainConnectivity" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="BrainConnectivity" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="BrainConnectivity" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="BrainConnectivity" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.nets_3Dedge" />
+      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in TestStructuralNetmats" />
+      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittest TestStructuralNetmats.test_sum_netmat" />
+      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittest TestStructuralNetmats.test_mean_netmat" />
+      <item index="4" class="java.lang.String" itemvalue="Python.ViewEdges3D" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.ViewEdges3D" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittest TestStructuralNetmats.test_mean_netmat" />
+        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittest TestStructuralNetmats.test_sum_netmat" />
+        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in TestStructuralNetmats" />
+        <item index="4" class="java.lang.String" itemvalue="Python.nets_3Dedge" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b4e1195f-b97b-4833-8b57-ecdf61448621" name="Default" comment="" />
+      <created>1452511295409</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1452511295409</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittest_TestStructuralNetmats_test_mean_netmat - 2016.06.19 at 15h 55m 09s.xml">
+      <configuration name="Unittest TestStructuralNetmats.test_mean_netmat" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittest_TestStructuralNetmats_test_mean_netmat - 2016.06.19 at 15h 59m 45s.xml">
+      <configuration name="Unittest TestStructuralNetmats.test_mean_netmat" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittest_TestStructuralNetmats_test_sum_netmat - 2016.06.19 at 15h 17m 41s.xml">
+      <configuration name="Unittest TestStructuralNetmats.test_sum_netmat" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittest_TestStructuralNetmats_test_sum_netmat - 2016.06.19 at 15h 17m 58s.xml">
+      <configuration name="Unittest TestStructuralNetmats.test_sum_netmat" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittest_TestStructuralNetmats_test_sum_netmat - 2016.06.19 at 15h 29m 09s.xml">
+      <configuration name="Unittest TestStructuralNetmats.test_sum_netmat" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittest_TestStructuralNetmats_test_sum_netmat - 2016.06.19 at 15h 30m 16s.xml">
+      <configuration name="Unittest TestStructuralNetmats.test_sum_netmat" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittest_TestStructuralNetmats_test_sum_netmat - 2016.06.19 at 15h 30m 51s.xml">
+      <configuration name="Unittest TestStructuralNetmats.test_sum_netmat" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittest_TestStructuralNetmats_test_sum_netmat - 2016.06.19 at 15h 40m 08s.xml">
+      <configuration name="Unittest TestStructuralNetmats.test_sum_netmat" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittest_TestStructuralNetmats_test_sum_netmat - 2016.06.19 at 15h 49m 51s.xml">
+      <configuration name="Unittest TestStructuralNetmats.test_sum_netmat" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittest_TestStructuralNetmats_test_sum_netmat - 2016.06.19 at 15h 50m 18s.xml">
+      <configuration name="Unittest TestStructuralNetmats.test_sum_netmat" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="65" y="24" width="1855" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23719676" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294979" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2792887" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39958158" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/../BrainConnectivity/Predictor.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$USER_HOME$/myenv/local/lib/python2.7/site-packages/pandas/core/frame.py</url>
+          <line>209</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/../BrainConnectivity/Predictor.py</url>
+          <line>161</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Predictors/ElasticNetTuner.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Predictors/ElasticNetTuner.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Predictors/ElasticNetTuner.py</url>
+          <line>91</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="9" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/myenv/local/lib/python2.7/site-packages/pandas/core/frame.py" />
+    <entry file="file://$PROJECT_DIR$/Notes" />
+    <entry file="file://$PROJECT_DIR$/../BrainConnectivity/NNTuner.py" />
+    <entry file="file://$PROJECT_DIR$/../BrainConnectivity/Tuner.py" />
+    <entry file="file://$PROJECT_DIR$/MajorityEnsemble.py" />
+    <entry file="file://$PROJECT_DIR$/ModelDevelopment" />
+    <entry file="file://$PROJECT_DIR$/../BrainConnectivity/Predictor.py" />
+    <entry file="file://$PROJECT_DIR$/../BrainConnectivity/PatientDataLoader.py" />
+    <entry file="file://$PROJECT_DIR$/../BrainConnectivity/downsample_script.py" />
+    <entry file="file://$USER_HOME$/.PyCharm2016.1/system/python_stubs/1042781974/__builtin__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22059">
+          <caret line="817" column="8" selection-start-line="817" selection-start-column="8" selection-end-line="817" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../BrainConnectivity/Predictors/Nested_CV_Prediction.py" />
+    <entry file="file://$PROJECT_DIR$/Predictors/PatientMaps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="3" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Predictors/PatientDataLoader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="26" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Predictors/PTuner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/nibenv/local/lib/python2.7/site-packages/sklearn/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="156" column="47" selection-start-line="156" selection-start-column="47" selection-end-line="156" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/nibenv/local/lib/python2.7/site-packages/numpy/core/shape_base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="423">
+          <caret line="56" column="0" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/nibenv/local/lib/python2.7/site-packages/numpy/core/numeric.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12636">
+          <caret line="481" column="0" selection-start-line="481" selection-start-column="0" selection-end-line="481" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/nibenv/local/lib/python2.7/site-packages/sklearn/utils/validation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8883">
+          <caret line="336" column="0" selection-start-line="336" selection-start-column="0" selection-end-line="336" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/nibenv/local/lib/python2.7/site-packages/scipy/sparse/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23949">
+          <caret line="887" column="0" selection-start-line="887" selection-start-column="0" selection-end-line="887" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/nibenv/local/lib/python2.7/site-packages/numpy/core/_methods.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/nibenv/local/lib/python2.7/site-packages/sklearn/linear_model/coordinate_descent.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29295">
+          <caret line="1106" column="0" selection-start-line="1106" selection-start-column="0" selection-end-line="1106" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Predictors/Predictor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Predictors/ElasticNetTuner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="23" column="35" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#18#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataLoader/MetadataHelper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="19" column="56" selection-start-line="19" selection-start-column="56" selection-end-line="19" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../BrainConnectivity/GraphMetrics/GridElasticNetTuner.py" />
+    <entry file="file://$PROJECT_DIR$/Feature_Analysis/GLMFeatureExtraction.py" />
+    <entry file="file://$PROJECT_DIR$/Predictors/TestElasticNetTuner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="22" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Predictors/NNTuner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="430">
+          <caret line="158" column="40" selection-start-line="158" selection-start-column="40" selection-end-line="158" selection-end-column="103" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Predictors/RandomForestTuner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="142" column="25" selection-start-line="142" selection-start-column="25" selection-end-line="142" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Feature_Analysis/RFFeatureExtraction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="39" column="47" selection-start-line="39" selection-start-column="47" selection-end-line="39" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FSLNets/nets_tsclean.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FSLNets/nets_example.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FSLNets/nets_glm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="869">
+          <caret line="48" column="0" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataLoader/TestUtils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="84" selection-start-line="12" selection-start-column="84" selection-end-line="12" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../BrainConnectivity/GraphMetrics/TestGraphMetrics.py" />
+    <entry file="file://$PROJECT_DIR$/GraphMetrics/ClusteringCoefficent.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="23" column="3" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Feature_Analysis/Edge_Correlation.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GraphMetrics/PathLength.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="999">
+          <caret line="37" column="16" selection-start-line="37" selection-start-column="16" selection-end-line="37" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GraphMetrics/GraphMetircTests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1512">
+          <caret line="61" column="81" selection-start-line="61" selection-start-column="81" selection-end-line="61" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataLoader/GIFTIHelper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FSLNets/nets_3Dedge.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataLoader/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1269">
+          <caret line="48" column="0" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FSLNets/TimeSeriesData.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2214">
+          <caret line="84" column="22" selection-start-line="84" selection-start-column="22" selection-end-line="84" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Feature_Analysis/EdgeUtils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1593">
+          <caret line="59" column="0" selection-start-line="59" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GraphMetrics/DiceSimilarityCoefficient.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GraphMetrics/SmallWorld.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="19" column="8" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Feature_Analysis/TestEdgeUtils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FSLNets/TestStructuralNetmats.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FSLNets/StructuralNetmats.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FSLNets/nets_netmats.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2318">
+          <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Feature_Analysis/ViewEdges3D.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="545">
+          <caret line="37" column="21" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
